@@ -1,9 +1,11 @@
-# Primeros cambios de la nueva rama en el archivo hello-world-examen
-
-# El repositorio se está haciendo exactamente como es el ejemplo Hola Mundo  "https://docs.github.com/es/get-started/quickstart/hello-world" ya que el examen es de hacerlo igual que el ejemplo.
-
-## Hasta ahora hemos creado un nuevo repositorio. Para poder ser corregido está como un repositorio público, y por tanto cualquiera puede verlo. 
-## Hemos creado una nueva rama llamada 'feature' y en ella hay que editarla; yo estoy indicando los pasos que hemos seguido hasta ahora. 
+# Examen Segunda Evaluación. 
 
 
-# Esto es solo una especie de "comentario" ya que no queria ponerlo a lo cutre con un solo "primeros comentarioms".
+## - Primer paso: Crear un repositorio llamado hello-world-examen. 
+
+
+1. Primero de todo ir al lado del perfil.
+
+`![Captura de pantalla 2022-03-21 091228 1](https://user-images.githubusercontent.com/82807688/159229698-de272032-cf28-4099-ba47-cb2d8d3a0f37.png)`
+
+### Ahora vamos al lado del 
