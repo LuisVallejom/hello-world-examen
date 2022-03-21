@@ -20,4 +20,16 @@
 
 ## 2. Crear una nueva rama.
 
-#### Para crear una nueva rama vamos a la caja de arriba a la izquierda donde pone `main`
+### El repositorio al crearse ya tiene una rama predeterminada llamada `main`.
+
+#### Para crear una nueva rama vamos a la caja de arriba a la izquierda donde pone `main`.
+#### Para poder crear una nueva rama en este caso nosotros la llamaremos `feature` porque el ejemplo nos lo indica; en este caso escribiremos `feature` y se creará la rama.
+#### Ya tenemos la nueva rama `feature` creada junto con la `main`.
+
+
+## 3. Añadir un comentario a la nueva rama.
+
+
+
+
+
