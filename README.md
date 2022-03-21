@@ -56,7 +56,13 @@ El `Compare & pull request` nos sirve para poder ver las modificacion que hemos 
 #### Para finalizar por último clicamos `Confir merge`.
 
 
+## Al final del ejercicio se ha logrado en este tutorial/ejercicio:
 
+· Creaste y abriste un repositorio de código fuente
+· Iniciaste y administraste una rama nueva
+· Cambiaste un archivo y confirmaste esos cambios en GitHub
+· Abriste y fusionaste una solicitud de cambios
+· Echa un vistazo a tu perfil de GitHub y verás tu trabajo reflejado en tu gráfica de contribuciones.
 
 
 
