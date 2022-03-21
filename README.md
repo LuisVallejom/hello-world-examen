@@ -6,4 +6,4 @@
 ## Hemos creado una nueva rama llamada 'feature' y en ella hay que editarla; yo estoy indicando los pasos que hemos seguido hasta ahora. 
 
 
-# Esto es solo una especie de "comentario" ya que no queria ponerlo a lo cutre con un solo "primeros comentarios".
+# Esto es solo una especie de "comentario" ya que no queria ponerlo a lo cutre con un solo "primeros comentarioms".
