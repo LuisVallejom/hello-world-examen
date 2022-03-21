@@ -28,6 +28,40 @@
 
 
 ## 3. Añadir un comentario a la nueva rama.
+#### La nueva rama te dirigirá a la página de código de tu nueva rama `readme-edits`, que es una copia de la `rama` `main`.
+#### Clicamos en el README.md de la nueva `rama` y en el lápiz que está arriba a la derecha.
+
+#### Una vez que estemos denytro escribimos nuestros primeros cambios.
+![Captura de pantalla 10](https://user-images.githubusercontent.com/82807688/159233798-8c3c1477-b2af-4493-8070-5cf0933afc4c.png)
+
+#### Al terminar de escribir nuestros comentarios que queramos poner vamos abajo y ponemos un comentario. Al finalizar clicamos en `Commit changes`.
+![Captura de pantalla 11](https://user-images.githubusercontent.com/82807688/159234056-8227408e-47e4-4223-9a3d-4bfd2bb8bb5f.png)
+
+## 4. Comparaciones al editar el README.md.
+
+#### Una vez que finalicemos y cliquemos en `Commit changes` nos aparecerá arriba en un color amarillo/naranja un boton `Compare & pull request`. 
+
+![Captura de pantalla 12 0 antes del 12](https://user-images.githubusercontent.com/82807688/159234542-2568c9f3-1670-4c96-8d23-af5d960ce48b.png)
+
+El `Compare & pull request` nos sirve para poder ver las modificacion que hemos hecho. Aparecerán dos colores el rojo y el verde que nos indicarán los cambios hechos.
+![Captura de pantalla 12](https://user-images.githubusercontent.com/82807688/159234835-7b797c51-6f9e-43b6-871d-e91174fe1bc2.png)
+
+#### Le ponemos un comentario y clicamos en `create pull request`.
+
+![Captura de pantalla 13](https://user-images.githubusercontent.com/82807688/159235004-209033e9-a675-4118-99cd-9598a740ffe3.png)
+
+#### Para poder finalizar clicamos en `Merge pull request`.
+![Captura de pantalla 14](https://user-images.githubusercontent.com/82807688/159235160-fa6d9e9e-695c-4cb2-a668-000a953e1fca.png)
+
+#### Para finalizar por último clicamos `Confir merge`.
+
+
+
+
+
+
+
+
 
 
 
