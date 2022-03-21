@@ -16,6 +16,8 @@
 
 ![Captura de pantalla 3](https://user-images.githubusercontent.com/82807688/159230957-4ae7edb4-f10f-4f70-8296-183126adb083.png)
 
-#### Para que finalmente se cree el repositorio hay que clicar en el botón verde.
+#### Finalmente le damos a finalizar y ya tendremos el repositorio creado.
 
-## 2. 
+## 2. Crear una nueva rama.
+
+#### Para crear una nueva rama vamos a la caja de arriba a la izquierda donde pone 'main'
