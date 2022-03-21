@@ -6,6 +6,7 @@
 
 1. Primero de todo ir al lado del perfil.
 
-`![Captura de pantalla 2022-03-21 091228 1](https://user-images.githubusercontent.com/82807688/159229698-de272032-cf28-4099-ba47-cb2d8d3a0f37.png)`
+![Captura de pantalla 2022-03-21 091228 1](https://user-images.githubusercontent.com/82807688/159230338-b08a8662-6095-472e-b19b-d1de8ecd7561.png)
+
 
 ### Ahora vamos al lado del 
