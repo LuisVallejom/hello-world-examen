@@ -20,4 +20,4 @@
 
 ## 2. Crear una nueva rama.
 
-#### Para crear una nueva rama vamos a la caja de arriba a la izquierda donde pone 'main'
+#### Para crear una nueva rama vamos a la caja de arriba a la izquierda donde pone `main`
